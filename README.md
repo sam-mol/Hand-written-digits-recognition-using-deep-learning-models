@@ -1,4 +1,4 @@
-# MNIST
+# MNIST Project
 
 Hand written digits recognition project.
 

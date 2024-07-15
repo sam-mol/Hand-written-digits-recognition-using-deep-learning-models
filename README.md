@@ -1,5 +1,3 @@
-# MNIST Project
-
 Hand written digits recognition project.
 
 The handwritten digits recognition with MNIST dataset is the “Hello World” problem in the fields of deep learning models. It is an amazing project to get started with in order to understand the fundamental processes involved in a typical deep learning model development.  

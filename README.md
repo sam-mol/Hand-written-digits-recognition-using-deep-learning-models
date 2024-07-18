@@ -1,5 +1,5 @@
-The handwritten digits recognition with MNIST dataset is an amazing project to understand the fundamental processes involved in a typical machine learning model development. The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training and testing new models in the field of machine learning. Application of Convolutional Neural Network models to MNIST dataset was one of the first successful applications of deep neural networks to real-world data. Here I implemented a neural network model using deep learning framework Keras. Keras is a go-to tool to build deep learning models. 
-I also used Numpy and Matplotlib libraries from PyData ecosystem (Python for data science) to clean and visualize the data.
+The handwritten digits recognition using MNIST dataset is an amazing project to understand the fundamentals of deep learning model development. The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training and testing new models in the field of machine learning. Application of Convolutional Neural Network models to MNIST dataset was one of the first successful applications of deep neural network models to real-world data. Here I implemented a neural network model using deep learning framework Keras. Keras is a go-to tool to build deep learning models. 
+I also used Numpy and Matplotlib libraries from PyData ecosystem (Python for data science) to transform and visualize the data.
 
 Here are the steps that comprised the project:
 
@@ -10,3 +10,5 @@ Here are the steps that comprised the project:
 5) Adjust hyperparameters if needed and train the model again.
 6) Test the model on the test set.
 7) Report the findings.
+
+References: Keras is well described by its creator François Chollet in his book "Deep Learning with Python". 
